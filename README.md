@@ -1,4 +1,4 @@
-# Hi there, I'm [Twoje Imię/Nick]! 👋
+# Hi there, I'm Franciszek👋
 
 I'm a **Junior Software Developer** dedicated to building robust logic-driven systems and engaging interactive experiences. I love bridging the gap between clean backend code and creative game design.
 
