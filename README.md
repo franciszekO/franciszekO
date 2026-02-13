@@ -15,6 +15,6 @@ I'm a **Junior Software Developer** and a passionate game developer :)
 | :--- | :--- |
 | **Languages** | Java, Python, C#, GDScript |
 | **Game Engines** | Unity (C# & Visual Scripting), Godot |
-| **Interests** | Backend Architecture, Narrative Design, Roguelike Mechanics |
+| **Interests** | Narrative Design, Roguelike Mechanics |
 
 
