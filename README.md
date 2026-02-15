@@ -4,7 +4,7 @@ I'm a **Junior Software Developer** and a passionate game developer :)
 
 ---
 
-### 🔭 Currently Working On
+### currently working on
 * **Backend Logic:** Developing personal projects using **Java** and **Python**.
 * **Game Dev Experiments:** Polishing experimental mechanics and narrative systems.
 * **Roguelike Systems:** Obsessed with procedural generation and deep gameplay loops.
