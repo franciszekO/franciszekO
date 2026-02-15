@@ -1,4 +1,4 @@
-# Hiiiii there, I'm Franciszek👋
+# Hiiiii, i'm Franciszek
 
 I'm a **Junior Software Developer** and a passionate game developer :)
 
