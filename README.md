@@ -1,6 +1,6 @@
 # Hiiiii, i'm Franciszek
 
-passionate junior software/game ddeveloper
+passionate junior software/game developer
 
 ---
 
