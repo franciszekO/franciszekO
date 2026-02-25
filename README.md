@@ -34,7 +34,7 @@ Here are a few projects I've been working on:
 | :--- | :--- | :--- |
 | **Python** | SQLite, OpenAI API | Backend Logic |
 | **Java** | Git/GitHub | API Development |
-| **JavaScript** | HTML5, CSS3 | Interactive Systems |
+| **JavaScript** | HTML5, CSS | Interactive Systems |
 | **C#** | Unity, Godot | Roguelike Mechanics |
 
 ---
